@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">getImpInt</string>
+    <string name="uri">URI : </string>
+</resources>
